@@ -10,17 +10,17 @@
 <ol>
     <!--This is images entering area for program-->
     
-    <li> <img src="C:\Users\HP\OneDrive\Desktop\index\spider.jpg" height="200px" width="400px"> </li>
+    <li> <img src="spider.jpg" height="200px" width="400px"> </li>
        <button>Download</button>
-    <li> <img src="C:\Users\HP\OneDrive\Desktop\index\logo.jpg" height="200px" width="400px"></li>
+    <li> <img src="logo.jpg" height="200px" width="400px"></li>
        <button>Download</button>
-    <li> <img src="C:\Users\HP\OneDrive\Desktop\index\wallpaperflare.com_wallpaper (4).jpg" height="200px" width="400px"></li>
+    <li> <img src="wallpaperflare.com_wallpaper (4).jpg" height="200px" width="400px"></li>
        <button>Download</button>
-    <li> <img src="C:\Users\HP\OneDrive\Desktop\index\purple.jpeg" height="200px" width="400px"></li>
+    <li> <img src="purple.jpeg" height="200px" width="400px"></li>
       <button>Download</button>
-    <li> <img src="C:\Users\HP\OneDrive\Desktop\index\12.jpg" height="200px" width="400px"></li>
+    <li> <img src="12.jpg" height="200px" width="400px"></li>
       <button>Download</button>
-    <li> <img src="C:\Users\HP\OneDrive\Desktop\index\3.jpg" height="200px" width="400px"></li>
+    <li> <img src="3.jpg" height="200px" width="400px"></li>
       <button>Download</button>
 
 </ol>
